@@ -7,6 +7,7 @@ One-paragraph description of what your team is building goes here.
 | Name | GitHub username | Role |
 | --- | --- | --- |
 | Phương Linh | phuonglinhtla|member |
+| Nguyen Quang Huy | KatsuroNguyen | Leader |
 
 ## Setup
 
