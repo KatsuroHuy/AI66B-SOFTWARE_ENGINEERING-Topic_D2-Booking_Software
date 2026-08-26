@@ -9,7 +9,7 @@ One-paragraph description of what your team is building goes here.
 | Phương Linh | phuonglinhtla|member |
 | Nguyen Quang Huy | KatsuroNguyen | Leader |
 | Nguyen Vinh Hung | Nvhwng | Member |
-| Be Thanh Dat | th3dummyking |
+| Be Thanh Dat | th3dummyking | member |
 ## Setup
 
 ```bash
